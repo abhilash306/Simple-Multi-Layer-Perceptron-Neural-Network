@@ -55,7 +55,8 @@ The following figure shows the training accuracy vs validation accuracy during t
 
 The confusion matrix for 10-class classification is given below:
 
-![Confusion Matrix](link-to-image)
+![Confusion Matrix]![Capture2](https://github.com/abhilash306/Simple-Multi-Layer-Perceptron-Neural-Network/assets/29005113/9587d0d8-6228-4f4b-9b16-917a02c90da4)
+
 
 We experimented with different parameters like the number of hidden layers, the number of neurons in each layer, learning rate, and number of iterations. The table below shows the accuracy of different experiments. The color coding shows the variation of parameters and their respective accuracy.
 
@@ -79,11 +80,10 @@ We experimented with different parameters like the number of hidden layers, the 
 ## Interpretability
 To understand which features are learned and extracted by the neural network, we used a filter visualization technique. In this technique, for the dense layers, we can inspect the weights to see what features each neuron is learning. Following are some pictures which show the filter at different layers of our neural network:
 
-![1st Hidden Layer Filter](![Capture4](https://github.com/abhilash306/Simple-Multi-Layer-Perceptron-Neural-Network/assets/29005113/f0400011-eeee-4090-8311-49bad33a116e)
-)
+![1st Hidden Layer Filter]![Capture4](https://github.com/abhilash306/Simple-Multi-Layer-Perceptron-Neural-Network/assets/29005113/f0400011-eeee-4090-8311-49bad33a116e)
 
-![2nd Hidden Layer Filter](![Capture5](https://github.com/abhilash306/Simple-Multi-Layer-Perceptron-Neural-Network/assets/29005113/726c347a-7ebc-495d-a867-d0b65a782e6a)
-)
+![2nd Hidden Layer Filter]![Capture5](https://github.com/abhilash306/Simple-Multi-Layer-Perceptron-Neural-Network/assets/29005113/726c347a-7ebc-495d-a867-d0b65a782e6a)
+
 ---
 
 ## Analyzing the Misclassification
