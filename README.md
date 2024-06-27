@@ -45,8 +45,8 @@ After training the neural network with a 0.001 learning rate and 15 epochs, we a
 
 The following figure shows the training loss vs validation loss during training (we split the training data as 0.1% as validation data):
 
-![Training Loss vs Validation Loss](![Capture](https://github.com/abhilash306/Simple-Multi-Layer-Perceptron-Neural-Network/assets/29005113/16f5c48d-2f3f-49eb-8c46-a378df88a315)
-)
+![Training Loss vs Validation Loss]![Capture](https://github.com/abhilash306/Simple-Multi-Layer-Perceptron-Neural-Network/assets/29005113/16f5c48d-2f3f-49eb-8c46-a378df88a315)
+
 
 The following figure shows the training accuracy vs validation accuracy during training (we split the training data as 0.1% as validation data):
 
