@@ -1,14 +1,6 @@
-# Introduction To Machine Learning
-## ELL784
-
-### Assignment 3
 #### Neural Network
 
-Submitted to Sumantra Dutta Roy
-
-Pradyot (2022JTM2401)
-
-Abhilash (2022JTM2391)
+Abhilash
 
 ---
 
